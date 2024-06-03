@@ -7,7 +7,7 @@ QAQ基础组件包含：
 - gateway *Springboot Gateway实现的API网关，依赖mysql*
 - uniauth *rbac权限管理，OAuth2登陆，与飞书交互等功能，springboot实现依赖mysql*
 - uniauth-web *QAQ门户、全局导航、gateway和uniauth的对应的前端操作界面，react实现*
-- docs *平台文档系统，QAQ主站及子产品通过iframe引入docs的页面做产品介绍等文档，docusaurus实现*
+- docs *平台文档系统，QAQ主站及子产品通过iframe引入docs的页面做产品介绍等文档，docusaurus实现* 这里还有一个备选方案，使用飞书[云文档组件](https://open.feishu.cn/document/uYjL24iN/uYDO3YjL2gzN24iN3cjN/access-notice)，优点是不用部署docs，缺点是样式不可控
 
 可选
 - upload "基于s3的文件存储服务，无界面, django-rest-framework实现"
