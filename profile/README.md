@@ -30,7 +30,12 @@ Optional:
 - spreate mysql
 
 tofix:
-`helm install -n qaq-dev`
+```console
+# Add qaq repository
+helm repo add qaq https://qaq-public.github.io/helm-charts/
+# Deploy a Helm Release named "qaq" using the qaq chart
+helm upgrade --install qaq qaq/qaq --create-namespace --namespace qaq
+```
 
 ## 测开团队的定位
 笔者曾先后就职于网易游戏、莉莉丝游戏、哔哩哔哩游戏等多家公司，综合不同公司的情况，大致总结如下: 
