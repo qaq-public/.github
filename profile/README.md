@@ -2,7 +2,7 @@
   <img width="192px" src="./logo.svg">
 </p>
 <p align="center">
-😄让测试充满乐趣！😄
+😄 让测试充满乐趣！😄
 </p>
 
 # QAQ
