@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="80px" src="./logo.svg">
+</p>
+<p align="center">
+让测试充满乐趣！
+</p>
 # QAQ
 ## QAQ是什么
 QAQ是一些*测开基建* + 一种*设计模式* + 一些基于这些*测开基建*和*设计模式*开发或改造的*测试服务*组成的集合体。
