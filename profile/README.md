@@ -42,5 +42,6 @@ QAQ从其前身发展至今，经历过多种部署方式：
 - 第二代：Docker部署 + Docker Compose进程管理[docker-compose](https://github.com/qaq-public/docker-compose)
 - 第三代：Kubernetes Kustomize [kustomize](https://github.com/qaq-public/kustomize)
 - 第四代：Helm Charts [helm-charts](https://github.com/qaq-public/helm-charts)
+
 第一代方式不推荐，后续三代部署方式各有优缺点，且都有提供。请根据自身情况，自行选用。
 
